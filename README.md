@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muflih Juni Alhadi</h1>
 <h3 align="center">A passionate Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muflihit&label=Profile%20views&color=0e75b6&style=flat" alt="muflihit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muflihit" alt="muflihit" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/muflih_zy" target="blank"><img src="https://img.shields.io/twitter/follow/muflih_zy?logo=twitter&style=for-the-badge" alt="muflih_zy" /></a> </p>
-
 - 🌱 I’m currently learning **Codeigniter, Phyton, Laravel, JS, React**
 
 - 💬 Ask me about **PHP, CSS, HTML and Phyton**
@@ -27,9 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/muflihzy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="muflihzy" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muflihit&show_icons=true&locale=en&layout=compact" alt="muflihit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muflihit&show_icons=true&locale=en" alt="muflihit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muflihit&" alt="muflihit" /></p>
