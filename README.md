@@ -1,10 +1,4 @@
 <h1 align="center">Hi 👋, I'm Muflih Juni Alhadi</h1>
-<h3 align="center">A passionate Developer from Indonesia</h3>
-
-- 🌱 I’m currently learning **Codeigniter, Phyton, Laravel, JS, React**
-
-- 💬 Ask me about **PHP, CSS, HTML and Phyton**
-
 - 📫 How to reach me **muflihzy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
