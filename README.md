@@ -22,7 +22,7 @@ An experienced **ICT Educator** and **IT Support Specialist** with a strong pass
 ---
 
 <p align="left">
-  <a href="https://ko-fi.com/muflihzy">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Support me on Ko-fi" />
+  <a href="https://saweria.co/muflihzy" target="_blank">
+    <img src="https://img.shields.io/badge/Saweria-FFA500?style=for-the-badge&logo=coffee&logoColor=white" alt="Support via Saweria" />
   </a>
 </p>
